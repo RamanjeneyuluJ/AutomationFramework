@@ -138,5 +138,5 @@ Feature: Login
 	| *^%&%&% 									| Machint@123 | invalid email address |
 	| test@gmail.com| (&*^%$^$^& | Incorrect Details |
 	| (&*^%$^$^& | (&*^%$^$^& | invalid email address |
-	| test12345@gmail.com | Machint@123| My Company Dashboard |
+	| test1234@gmail.com | Machint@123| My Company Dashboard |
 	
